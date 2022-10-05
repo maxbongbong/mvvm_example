@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">example_viewmodel</string>
+    <string name="getMaxNum">현재 최대치:%d</string>
+</resources>
